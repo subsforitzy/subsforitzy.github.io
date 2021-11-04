@@ -15,7 +15,8 @@ bootswatch_theme: "united" # cerulean, spacelab, united
 lang: "en_US"
 title: "SubsForItzy"
 # description: "A simple bootstrap based jekyll theme."
-url: # site url e.g. "https://manid2.github.io"
+domain: subsforitzy.github.io
+url: https://subsforitzy.github.io # site url e.g. "https://manid2.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 author: mani_d2
 twitter:
